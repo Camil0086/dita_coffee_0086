@@ -96,7 +96,7 @@ a:hover {
     background-color: #c19770;
   }
   .wh_top_menu ul li:hover ul a {
-    color: #777777;
+    color: #ffffff;
     transition: background-color 0.25s ease-out 0s, color 0.3s ease-out 0s;
   }
   .wh_top_menu ul ul li a:hover {
@@ -113,7 +113,7 @@ a:hover {
     color: #ffffff;
   }
   .wh_top_menu li.active a {
-    color: #ffffff;
+    color: #6f4e37;
   }
   .wh_top_menu li.active {
     background-color: #c19770;
