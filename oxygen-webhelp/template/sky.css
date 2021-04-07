@@ -74,7 +74,7 @@ a:hover {
 }
 /* The submenus */
 .wh_top_menu ul ul {
-  background-color: #e3f0f7;
+  background-color: #c19770;
 }
 @media only screen and (min-width: 768px) {
   .wh_top_menu > ul > li > .topicref > a {
@@ -87,13 +87,13 @@ a:hover {
   }
   /* Menu bar */
   .wh_top_menu ul li:hover a {
-    background-color: #e3f0f7;
+    background-color: #c19770;
     color: #6f4e37;
   }
   /* Sub menus */
   .wh_top_menu ul ul li {
     border: none;
-    background-color: #e3f0f7;
+    background-color: #c19770;
   }
   .wh_top_menu ul li:hover ul a {
     color: #777777;
@@ -116,7 +116,7 @@ a:hover {
     color: #6f4e37;
   }
   .wh_top_menu li.active {
-    background-color: #e3f0f7;
+    background-color: #c19770;
   }
   .wh_top_menu li.active > span a {
     background-color: #faf0dc;
@@ -125,7 +125,7 @@ a:hover {
   .wh_toggle_button.navbar-toggle:focus {
     border: none;
     border-color: #6f4e37;
-    background-color: #e3f0f7;
+    background-color: #c19770;
   }
   .wh_toggle_button.navbar-toggle .icon-bar {
     background-color: #6f4e37;
@@ -173,8 +173,8 @@ a:hover {
  * 
  */
 .wh_tools {
-  border: solid 1px #e3f0f7;
-  background-color: #e3f0f7;
+  border: solid 1px #c19770;
+  background-color: #c19770;
   margin: 2em 1em;
   font-size: 1em;
 }
@@ -241,12 +241,12 @@ a:hover {
 }
 .wh_main_page_toc .wh_main_page_toc_accordion_header:hover,
 .wh_main_page_toc > .wh_main_page_toc_entry:hover {
-  background-color: #e3f0f7;
+  background-color: #c19770;
   color: #6f4e37;
 }
 .wh_main_page_toc_accordion_header:hover > .wh_toc_shortdesc,
 .wh_main_page_toc > .wh_main_page_toc_entry:hover > .wh_toc_shortdesc {
-  background-color: #e3f0f7;
+  background-color: #c19770;
   color: #6f4e37;
 }
 .wh_main_page_toc .wh_main_page_toc_accordion_header:hover a,
@@ -259,7 +259,7 @@ a:hover {
 .wh_main_page_toc .wh_main_page_toc_accordion_header,
 .wh_main_page_toc > .wh_main_page_toc_entry,
 .wh_main_page_toc_accordion_entries {
-  border-bottom: 1px solid #e3f0f7;
+  border-bottom: 1px solid #c19770;
   background-color: #ffffff;
   text-align: left;
 }
@@ -317,7 +317,7 @@ Example:
 }
 .wh_search_textfield,
 .wh_search_button {
-  border: solid 1px #e3f0f7;
+  border: solid 1px #c19770;
   color: #6f4e37;
   background-color: #ffffff;
   padding: 0 1em;
@@ -369,7 +369,7 @@ Example:
   color: #6f4e37;
 }
 .wh_search_button:hover {
-  background-color: #e3f0f7 /*rgba(255, 255, 255, 0.1)*/;
+  background-color: #c19770 /*rgba(255, 255, 255, 0.1)*/;
 }
 /* Search field placeholder */
 ::-webkit-input-placeholder {
@@ -390,7 +390,7 @@ Example:
 :-webkit-autofill,
 :-webkit-autofill:hover,
 :-webkit-autofill:focus {
-  border: 1px solid #e3f0f7;
+  border: 1px solid #c19770;
   -webkit-text-fill-color: #6f4e37;
   -webkit-box-shadow: none;
   transition: background-color 5000s ease-in-out 0s;
@@ -402,7 +402,7 @@ Example:
  *
  */
 .wh_publication_toc {
-  border: 1px solid #e3f0f7;
+  border: 1px solid #c19770;
   background-color: #ffffff;
   padding: 1em;
   line-height: 2em;
@@ -434,11 +434,11 @@ Example:
 .wh_breadcrumb .topicref .wh-tooltip,
 .wh_publication_toc .topicref .wh-tooltip {
   background-color: #444444;
-  color: #e3f0f7;
+  color: #c19770;
 }
 .wh_breadcrumb .topicref .wh-tooltip a,
 .wh_publication_toc .topicref .wh-tooltip a {
-  color: #e3f0f7;
+  color: #c19770;
   text-decoration: underline;
 }
 /* Tooltip arrow. */
@@ -478,7 +478,7 @@ Example:
  *
  */
 .wh_content_area {
-  background-color: #e3f0f7;
+  background-color: #c19770;
   padding: 1.5em;
   font-size: 1em;
   margin-bottom: 2em;
@@ -516,7 +516,7 @@ Example:
 .wh_child_links {
   margin: 1em 0 0 0;
   background-color: #ffffff;
-  border: #e3f0f7 solid 1px;
+  border: #c19770 solid 1px;
   padding: 0 1em;
 }
 .wh_child_links {
@@ -567,7 +567,7 @@ Example:
 /* Highlights */
 .highlight {
   background-color: #6f4e37;
-  color: #e3f0f7 !important;
+  color: #c19770 !important;
   border-radius: 4px;
   padding: 0 1px;
 }
@@ -576,8 +576,8 @@ Example:
 }
 /* Index terms */
 .wh_term_group {
-  border: 1px solid #e3f0f7;
-  background-color: #e3f0f7;
+  border: 1px solid #c19770;
+  background-color: #c19770;
   margin: 1em 0;
   padding: 1em;
 }
