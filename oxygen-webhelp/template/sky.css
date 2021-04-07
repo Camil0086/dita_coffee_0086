@@ -38,7 +38,7 @@ body {
 a,
 a:hover,
 a:visited {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 a:hover {
   text-decoration: none;
@@ -101,7 +101,7 @@ a:hover {
   }
   .wh_top_menu ul ul li a:hover {
     color: #6f4e37;
-    background-color: #addff9;
+    background-color: #faf0dc;
     transition: background-color 0.25s ease-in 0s, color 0.3s ease-in 0s;
   }
   .wh_top_menu ul ul li.has-children:after {
@@ -119,7 +119,7 @@ a:hover {
     background-color: #e3f0f7;
   }
   .wh_top_menu li.active > span a {
-    background-color: #addff9;
+    background-color: #faf0dc;
   }
   .wh_toggle_button.navbar-toggle,
   .wh_toggle_button.navbar-toggle:focus {
@@ -164,7 +164,7 @@ a:hover {
 }
 .wh_breadcrumb ol .active,
 .wh_breadcrumb ol .active a {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 /*
  * ------------------------------------------------------------------
@@ -204,7 +204,7 @@ a:hover {
  * 
  */
 .wh_tile_shortdesc {
-  color: #1ea7ef;
+  color: #d5b895;
   font-weight: 400;
   font-size: 1em;
   margin-top: 0.5em;
@@ -264,7 +264,7 @@ a:hover {
   text-align: left;
 }
 .wh_main_page_toc .wh_toc_shortdesc {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 .wh_main_page_toc_accordion_header:before {
   color: #6f4e37;
@@ -411,14 +411,14 @@ Example:
   padding-left: 0;
 }
 .wh_publication_toc .active > span {
-  color: #1ea7ef;
+  color: #d5b895;
   text-decoration: underline;
 }
 .wh_publication_toc span,
 .wh_publication_toc a,
 .wh_publication_toc a:visited,
 .wh_publication_toc a:hover {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 .wh_publication_toc a:hover {
   text-decoration: underline;
@@ -469,7 +469,7 @@ Example:
   align-items: center;
 }
 .wh_footer a {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 /*
  * ------------------------------------------------------------------
@@ -538,7 +538,7 @@ Example:
   padding: .5em;
 }
 .searchresult li a {
-  color: #1ea7ef;
+  color: #d5b895;
 }
 .wh_search_expression {
   color: #6f4e37;
@@ -596,7 +596,7 @@ Example:
 }
 /* Search pre-loader */
 .fakeTitle {
-  background-color: #1ea7ef;
+  background-color: #d5b895;
 }
 .fakeText {
   background-color: #444444;
