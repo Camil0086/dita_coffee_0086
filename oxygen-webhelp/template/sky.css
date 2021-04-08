@@ -101,7 +101,7 @@ a:hover {
   }
   .wh_top_menu ul ul li a:hover {
     color: #6f4e37;
-    background-color: #faf0dc;
+    background-color: #6f4e37;
     transition: background-color 0.25s ease-in 0s, color 0.3s ease-in 0s;
   }
   .wh_top_menu ul ul li.has-children:after {
