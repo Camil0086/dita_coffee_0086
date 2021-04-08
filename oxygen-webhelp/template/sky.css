@@ -110,7 +110,7 @@ a:hover {
 }
 @media only screen and (max-width: 767px) {
   .wh_top_menu li a {
-    color: #ffffff;
+    color: #6f4e37;
   }
   .wh_top_menu li.active a {
     color: #6f4e37;
