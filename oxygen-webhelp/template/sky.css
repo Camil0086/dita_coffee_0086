@@ -100,7 +100,7 @@ a:hover {
     transition: background-color 0.25s ease-out 0s, color 0.3s ease-out 0s;
   }
   .wh_top_menu ul ul li a:hover {
-    color: #ffffff;
+    color: #6f4e37;
     background-color: #faf0dc;
     transition: background-color 0.25s ease-in 0s, color 0.3s ease-in 0s;
   }
