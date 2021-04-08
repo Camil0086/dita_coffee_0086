@@ -100,7 +100,7 @@ a:hover {
     transition: background-color 0.25s ease-out 0s, color 0.3s ease-out 0s;
   }
   .wh_top_menu ul ul li a:hover {
-    color: #6f4e37;
+    color: #ffffff;
     background-color: #faf0dc;
     transition: background-color 0.25s ease-in 0s, color 0.3s ease-in 0s;
   }
@@ -434,7 +434,7 @@ Example:
 .wh_breadcrumb .topicref .wh-tooltip,
 .wh_publication_toc .topicref .wh-tooltip {
   background-color: #444444;
-  color: #c19770;
+  color: #ffffff;
 }
 .wh_breadcrumb .topicref .wh-tooltip a,
 .wh_publication_toc .topicref .wh-tooltip a {
@@ -516,7 +516,7 @@ Example:
 .wh_child_links {
   margin: 1em 0 0 0;
   background-color: #ffffff;
-  border: #c19770 solid 1px;
+  border: #444444 solid 1px;
   padding: 0 1em;
 }
 .wh_child_links {
@@ -567,7 +567,7 @@ Example:
 /* Highlights */
 .highlight {
   background-color: #6f4e37;
-  color: #c19770 !important;
+  color: #ffffff !important;
   border-radius: 4px;
   padding: 0 1px;
 }
