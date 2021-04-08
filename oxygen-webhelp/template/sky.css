@@ -38,7 +38,7 @@ body {
 a,
 a:hover,
 a:visited {
-  color: #d5b895;
+  color: #3a3227;
 }
 a:hover {
   text-decoration: none;
@@ -96,12 +96,12 @@ a:hover {
     background-color: #c19770;
   }
   .wh_top_menu ul li:hover ul a {
-    color: #6f4e37;
+    color: #faf0dc;
     transition: background-color 0.25s ease-out 0s, color 0.3s ease-out 0s;
   }
   .wh_top_menu ul ul li a:hover {
-    color: #6f4e37;
-    background-color: #faf0dc;
+    color: #faf0dc;
+    background-color: #6f4e37;
     transition: background-color 0.25s ease-in 0s, color 0.3s ease-in 0s;
   }
   .wh_top_menu ul ul li.has-children:after {
@@ -110,7 +110,7 @@ a:hover {
 }
 @media only screen and (max-width: 767px) {
   .wh_top_menu li a {
-    color: #ffffff;
+    color: #faf0dc;
   }
   .wh_top_menu li.active a {
     color: #6f4e37;
