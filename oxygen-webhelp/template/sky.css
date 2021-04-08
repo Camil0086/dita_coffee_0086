@@ -434,7 +434,7 @@ Example:
 .wh_breadcrumb .topicref .wh-tooltip,
 .wh_publication_toc .topicref .wh-tooltip {
   background-color: #444444;
-  color: #ffffff;
+  color: #d5b895;
 }
 .wh_breadcrumb .topicref .wh-tooltip a,
 .wh_publication_toc .topicref .wh-tooltip a {
@@ -567,7 +567,7 @@ Example:
 /* Highlights */
 .highlight {
   background-color: #6f4e37;
-  color: #ffffff !important;
+  color: #c19770 !important;
   border-radius: 4px;
   padding: 0 1px;
 }
